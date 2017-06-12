@@ -1,0 +1,15 @@
+git remote set-url origin https://github.com/USERNAME/REPOSITORY.git //URL打錯更改使用
+git clone https://github.com/USERNAME/REPOSITORY.git //下載
+git pull //更新同個資料夾
+git remove
+步驟:
+
+  git init //初始畫
+  git add 檔案    // add * 資料夾內全部檔案 
+  git add . //全部檔案
+  git commit -m "first commit" // 加註解 一定要加
+  git remote add origin https://github.com/USERNAME/REPOSITORY.git //設定要上傳的github資料夾 只需要再新增資料夾的時候用 其他用
+  git push -u origin master //push上去
+
+
+
