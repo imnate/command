@@ -1,7 +1,8 @@
 git remote set-url origin https://github.com/USERNAME/REPOSITORY.git //URL打錯更改使用
 git clone https://github.com/USERNAME/REPOSITORY.git //下載
 git pull //更新同個資料夾
-git remove
+git rm //
+git commit -m //刪除也要加一個Log
 步驟:
 
   git init //初始畫
